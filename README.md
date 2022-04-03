@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Fabien - aka @FabienV69
 
 
-- 🌱 I'm currently doing my final year project at SQLI and I work with Energy Pool
+- 🌱 I'm currently working at SQLI
 
 ### Connect with me :
 
