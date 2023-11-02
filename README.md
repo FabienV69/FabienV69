@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Fabien - aka @FabienV69
 
 
-- 🌱 I'm currently working at SQLI
+- 🌱 I'm currently working at EP
 
 ### Skills :
 
